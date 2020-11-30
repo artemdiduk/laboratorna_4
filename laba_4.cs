@@ -1,6 +1,6 @@
 using System;
 
-namespace lb4task1
+namespace laba_4_task1
 { 
   class ArrayExample
   {
